@@ -1,3 +1,22 @@
-h1{
+.orange{
     color: darkorange;
+}
+h1{
+    font-size: 50px;
+}
+section{
+display: flex;
+margin-bottom: 150px;
+}
+.Devoloper{
+    width: 50%;
+    padding-left: 2%;
+}
+.Devoloper img{
+    width: 80%;
+}
+.hire-me{
+     background-color: orange;
+    padding: 10px 20px;
+    margin-left: 10px;
 }
